@@ -12,4 +12,4 @@ note: command should be run inside folder which has package.json
 ## step 1 start the app by  running command  `npm run start`
 
 
-localhost:5000 gives access to the app.
+http://localhost:5000 gives access to the app.
